@@ -94,4 +94,4 @@ O **Trust** é uma plataforma focada em **alunos e personal trainers**, criada p
 
 A solução busca tornar o acompanhamento **mais simples para o aluno e mais eficiente para o personal trainer**.
 
-** Trust — conectando quem treina com quem acompanha.**
+ Trust — conectando quem treina com quem acompanha.
