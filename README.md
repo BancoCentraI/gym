@@ -1,58 +1,83 @@
-# Projeto — Aplicativo de Academia
+#  Gym — Plataforma para Alunos e Personal Trainers
 
-## Sobre o Projeto
+O **Gym** é uma plataforma desenvolvida para conectar **alunos e personal trainers**, centralizando em um único aplicativo o gerenciamento de treinos, acompanhamento da evolução, avaliações, agenda e comunicação.
 
-Este projeto surgiu a partir da análise de aplicativos de academia existentes, nos quais identificamos uma necessidade de maior interação social, personalização e dinamismo.
+A proposta é substituir processos espalhados entre planilhas, mensagens e diferentes ferramentas por uma experiência **simples, organizada e personalizada**.
 
-Embora muitos aplicativos ofereçam funcionalidades básicas para acompanhamento de treinos, poucos disponibilizam recursos como feed de publicações, comunidade entre usuários e contratação de personal trainers.
+##  Proposta
 
-Dessa forma, nossa proposta é desenvolver uma solução mais completa, utilizando um sistema já existente como base e aprimorando-o com novas funcionalidades, uma interface mais moderna e uma experiência mais interativa.
+O foco do projeto é exclusivamente a relação entre **aluno e personal trainer**.
 
-## Objetivo
+###  Para o aluno
 
-O principal objetivo do projeto é melhorar a experiência dos usuários em aplicativos de academia, oferecendo ferramentas que vão além do acompanhamento de exercícios.
+* Acessar treinos personalizados;
+* Acompanhar sua evolução e histórico;
+* Visualizar avaliações físicas;
+* Consultar agenda e horários;
+* Acompanhar seu relacionamento com o personal;
+* Participar de um ambiente com conteúdos e recompensas.
 
-Buscamos criar uma plataforma que incentive a interação entre usuários, facilite o acesso a profissionais da área e permita maior personalização dos perfis.
+###  Para o personal trainer
 
-## Principais Funcionalidades
+* Gerenciar seus alunos;
+* Criar e organizar treinos;
+* Registrar avaliações físicas;
+* Acompanhar a evolução dos clientes;
+* Organizar agenda e atendimentos;
+* Gerenciar contratos;
+* Centralizar informações dos alunos.
 
-* **Feed de publicações**
+---
 
-  * Compartilhamento de conteúdos entre os usuários.
-  * Interação com publicações da comunidade.
+##  Principais funcionalidades
 
-* **Comunidade**
+| Funcionalidade     | Descrição                                                            |
+| ------------------ | -------------------------------------------------------------------- |
+|  **Treinos**    | Criação, organização e acompanhamento de treinos personalizados.     |
+|  **Avaliações**  | Registro e histórico das avaliações físicas dos alunos.              |
+|  **Evolução**    | Acompanhamento do progresso do aluno ao longo do tempo.              |
+|  **Agenda**      | Organização dos horários e treinamentos.                             |
+|  **Alunos**      | Gerenciamento dos clientes pelo personal trainer.                    |
+|  **Contratos**   | Organização das informações e contratos dos serviços.                |
+|  **Recompensas** | Sistema de incentivo à frequência e evolução do aluno.               |
+|  **Perfis**      | Informações e configurações específicas de cada usuário.             |
+|  **Feed**        | Compartilhamento de conteúdos e resultados relacionados aos treinos. |
 
-  * Espaço para interação entre os usuários.
-  * Troca de experiências, dicas e conteúdos relacionados à academia.
+---
 
-* **Contratação de Personal Trainer**
+##  Por que usar o Gym?
 
-  * Possibilidade de encontrar e contratar profissionais.
-  * Facilidade para usuários que desejam acompanhamento personalizado.
+O diferencial do **Gym** é conectar diretamente o trabalho do personal com a rotina do aluno.
 
-* **Personalização de perfil**
+Em vez de o profissional utilizar planilhas para treinos, aplicativos separados para agenda e mensagens para acompanhamento, tudo fica centralizado em uma única plataforma.
 
-  * Configuração e personalização das informações do usuário.
-  * Elementos visuais e decorativos para tornar o perfil mais individual.
+**Para o aluno:** mais organização, acompanhamento e clareza sobre sua evolução.
 
-* **Interface moderna e intuitiva**
+**Para o personal:** menos processos manuais e uma visão centralizada de seus clientes.
 
-  * Melhor organização das funcionalidades.
-  * Experiência de navegação mais agradável e dinâmica.
+> **Treino, acompanhamento e gestão em um único lugar.**
 
-* **Aprimoramento do sistema existente**
+---
 
-  * Correção de possíveis limitações.
-  * Implementação de novas funcionalidades e melhorias de usabilidade.
+##  Interface
 
-## Proposta
+A interface foi pensada para ser **moderna, simples e intuitiva**, priorizando as funcionalidades mais importantes para alunos e personal trainers.
 
-A proposta é transformar o aplicativo em uma plataforma mais social, personalizada e interativa, aproximando pessoas que possuem objetivos semelhantes e facilitando o acesso a profissionais de educação física.
+As telas e wireframes estão disponíveis na documentação:
 
-Com isso, o projeto busca unir treinos, comunidade e personalização em um único ambiente.
+ **[Ver telas e wireframes](https://github.com/BancoCentraI/gym/tree/main/documentação/wareframe)**
 
-## Equipe
+---
+
+##  Status
+
+**Em desenvolvimento.**
+
+O projeto pode receber novas funcionalidades, melhorias de interface e aprimoramentos durante seu desenvolvimento.
+
+---
+
+##  Equipe
 
 * José Anderson
 * Cláudio Gabriel
@@ -61,6 +86,12 @@ Com isso, o projeto busca unir treinos, comunidade e personalização em um úni
 * Pedro Guilherme
 * Ryan Douglas
 
-## Considerações Finais
+---
 
-O projeto tem como foco oferecer uma experiência mais completa para pessoas que praticam atividades físicas, combinando funcionalidades de treino com recursos sociais e de personalização.
+##  Resumo
+
+O **Gym** é uma plataforma focada em **alunos e personal trainers**, criada para centralizar treinos, avaliações, evolução, agenda e gestão de clientes.
+
+A solução busca tornar o acompanhamento **mais simples para o aluno e mais eficiente para o personal trainer**.
+
+** Gym — conectando quem treina com quem acompanha.**
