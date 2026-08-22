@@ -1,6 +1,6 @@
-#  Gym — Plataforma para Alunos e Personal Trainers
+#  Trust — Plataforma para Alunos e Personal Trainers
 
-O **Gym** é uma plataforma desenvolvida para conectar **alunos e personal trainers**, centralizando em um único aplicativo o gerenciamento de treinos, acompanhamento da evolução, avaliações, agenda e comunicação.
+O **Trust** é uma plataforma desenvolvida para conectar **alunos e personal trainers**, centralizando em um único aplicativo o gerenciamento de treinos, acompanhamento da evolução, avaliações, agenda e comunicação.
 
 A proposta é substituir processos espalhados entre planilhas, mensagens e diferentes ferramentas por uma experiência **simples, organizada e personalizada**.
 
@@ -45,9 +45,9 @@ O foco do projeto é exclusivamente a relação entre **aluno e personal trainer
 
 ---
 
-##  Por que usar o Gym?
+##  Por que usar o Trust?
 
-O diferencial do **Gym** é conectar diretamente o trabalho do personal com a rotina do aluno.
+O diferencial do **Trust** é conectar diretamente o trabalho do personal com a rotina do aluno.
 
 Em vez de o profissional utilizar planilhas para treinos, aplicativos separados para agenda e mensagens para acompanhamento, tudo fica centralizado em uma única plataforma.
 
@@ -80,7 +80,7 @@ O projeto pode receber novas funcionalidades, melhorias de interface e aprimoram
 ##  Equipe
 
 * José Anderson
-* Cláudio Gabriel
+* Cláudio Gabriel - contribuinte do warframe dispensado
 * Felipe Bezerra
 * Carlos Alberto
 * Pedro Guilherme
@@ -90,8 +90,8 @@ O projeto pode receber novas funcionalidades, melhorias de interface e aprimoram
 
 ##  Resumo
 
-O **Gym** é uma plataforma focada em **alunos e personal trainers**, criada para centralizar treinos, avaliações, evolução, agenda e gestão de clientes.
+O **Trust** é uma plataforma focada em **alunos e personal trainers**, criada para centralizar treinos, avaliações, evolução, agenda e gestão de clientes.
 
 A solução busca tornar o acompanhamento **mais simples para o aluno e mais eficiente para o personal trainer**.
 
-** Gym — conectando quem treina com quem acompanha.**
+** Trust — conectando quem treina com quem acompanha.**
