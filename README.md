@@ -65,7 +65,7 @@ A interface foi pensada para ser **moderna, simples e intuitiva**, priorizando a
 
 As telas e wireframes estão disponíveis na documentação:
 
- **[Ver telas e wireframes](https://github.com/BancoCentraI/gym/tree/main/documentação/wareframe)**
+ **[Ver telas e wireframes](https://github.com/BancoCentraI/gym/tree/main/documentação/wireframe)**
 
 ---
 
