@@ -79,12 +79,12 @@ O projeto pode receber novas funcionalidades, melhorias de interface e aprimoram
 
 ##  Equipe
 
-* José Anderson
-* Cláudio Gabriel - contribuinte do warframe dispensado
-* Felipe Bezerra
-* Carlos Alberto
-* Pedro Guilherme
-* Ryan Douglas
+- **José Anderson** — Wireframe Mobile
+- **Cláudio Gabriel** — Contribuinte do Wireframe *(dispensado)*
+- **Felipe Bezerra** — Documentação das Funcionalidades
+- **Carlos Alberto** — Desenvolvimento da API
+- **Pedro Guilherme** — Wireframe Desktop
+- **Ryan Douglas** — Banco de Dados
 
 ---
 
