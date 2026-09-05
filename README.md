@@ -1,97 +1,46 @@
-#  Trust — Plataforma para Alunos e Personal Trainers
+#  Corrida — Aplicativo de Monitoramento de Corridas
 
-O **Trust** é uma plataforma desenvolvida para conectar **alunos e personal trainers**, centralizando em um único aplicativo o gerenciamento de treinos, acompanhamento da evolução, avaliações, agenda e comunicação.
-
-A proposta é substituir processos espalhados entre planilhas, mensagens e diferentes ferramentas por uma experiência **simples, organizada e personalizada**.
+O **Corrida** é um aplicativo mobile desenvolvido para auxiliar corredores no acompanhamento de seus treinos, reunindo monitoramento, GPS, histórico, rotas e segurança em um único lugar.
 
 ##  Proposta
 
-O foco do projeto é exclusivamente a relação entre **aluno e personal trainer**.
+Oferecer uma experiência simples e intuitiva para que o usuário possa acompanhar suas corridas, visualizar seus percursos e consultar seu desempenho.
 
-###  Para o aluno
+##  Funcionalidades
 
-* Acessar treinos personalizados;
-* Acompanhar sua evolução e histórico;
-* Visualizar avaliações físicas;
-* Consultar agenda e horários;
-* Acompanhar seu relacionamento com o personal;
-* Participar de um ambiente com conteúdos e recompensas.
-
-###  Para o personal trainer
-
-* Gerenciar seus alunos;
-* Criar e organizar treinos;
-* Registrar avaliações físicas;
-* Acompanhar a evolução dos clientes;
-* Organizar agenda e atendimentos;
-* Gerenciar contratos;
-* Centralizar informações dos alunos.
-
----
-
-##  Principais funcionalidades
-
-| Funcionalidade     | Descrição                                                            |
-| ------------------ | -------------------------------------------------------------------- |
-|  **Treinos**    | Criação, organização e acompanhamento de treinos personalizados.     |
-|  **Avaliações**  | Registro e histórico das avaliações físicas dos alunos.              |
-|  **Evolução**    | Acompanhamento do progresso do aluno ao longo do tempo.              |
-|  **Agenda**      | Organização dos horários e treinamentos.                             |
-|  **Alunos**      | Gerenciamento dos clientes pelo personal trainer.                    |
-|  **Contratos**   | Organização das informações e contratos dos serviços.                |
-|  **Recompensas** | Sistema de incentivo à frequência e evolução do aluno.               |
-|  **Perfis**      | Informações e configurações específicas de cada usuário.             |
-|  **Feed**        | Compartilhamento de conteúdos e resultados relacionados aos treinos. |
-
----
-
-##  Por que usar o Trust?
-
-O diferencial do **Trust** é conectar diretamente o trabalho do personal com a rotina do aluno.
-
-Em vez de o profissional utilizar planilhas para treinos, aplicativos separados para agenda e mensagens para acompanhamento, tudo fica centralizado em uma única plataforma.
-
-**Para o aluno:** mais organização, acompanhamento e clareza sobre sua evolução.
-
-**Para o personal:** menos processos manuais e uma visão centralizada de seus clientes.
-
-> **Treino, acompanhamento e gestão em um único lugar.**
-
----
+-  **Iniciar Corrida** — acompanha tempo e distância.
+-  **Pausar e Encerrar** — controle da corrida em andamento.
+-  **Rastreamento por GPS** — visualiza a rota em tempo real.
+-  **Compartilhar Rota** — permite compartilhar o percurso.
+-  **Histórico** — consulta corridas e estatísticas anteriores.
+-  **Rotas e Descobertas** — pesquisa e descoberta de novos percursos.
+-  **Segurança do Corredor** — recurso de alerta e contato de emergência.
+-  **Perfil** — gerenciamento dos dados do usuário.
+-  **Login** — acesso por e-mail, senha ou Google.
 
 ##  Interface
 
-A interface foi pensada para ser **moderna, simples e intuitiva**, priorizando as funcionalidades mais importantes para alunos e personal trainers.
+O aplicativo utiliza uma interface **minimalista, moderna e intuitiva**, baseada em wireframes com predominância de preto, branco e tons de cinza.
 
-As telas e wireframes estão disponíveis na documentação:
+##  Navegação
 
- **[Ver telas e wireframes](https://github.com/BancoCentraI/gym/tree/main/documentação/wireframe)**
+A navegação principal é composta por:
 
----
+- **Início**
+- **Rastreamento**
+- **Histórico**
 
 ##  Status
 
 **Em desenvolvimento.**
 
-O projeto pode receber novas funcionalidades, melhorias de interface e aprimoramentos durante seu desenvolvimento.
-
----
-
 ##  Equipe
 
 - **José Anderson** — Wireframe Mobile
 - **Cláudio Gabriel** — Contribuinte do Wireframe *(dispensado)*
-- **Felipe Bezerra** — Documentação das Funcionalidades
+- **Felipe Bezerra** — Documentação
 - **Carlos Alberto** — Desenvolvimento da API
 - **Pedro Guilherme** — Wireframe Desktop
 - **Ryan Douglas** — Banco de Dados
 
----
-
-##  Resumo
-
-O **Trust** é uma plataforma focada em **alunos e personal trainers**, criada para centralizar treinos, avaliações, evolução, agenda e gestão de clientes.
-
-A solução busca tornar o acompanhamento **mais simples para o aluno e mais eficiente para o personal trainer**.
-
- Trust — conectando quem treina com quem acompanha.
+> **Corrida — seu percurso, seu desempenho, sua segurança.**
